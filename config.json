@@ -1,0 +1,8 @@
+{
+    "name": "coreconfig-service",
+    "version": "1.0.481",
+    "private": false,
+    "environment": "production",
+    "build_id": 564,
+    "allow_public_access": true
+}
